@@ -14,7 +14,6 @@ class GA:
         self.__param = param
         self.__prob_param = probl_param
         self.__population = []
-        self.__mating_pool = []
         self.__selection_probabilities = []
 
     @property
